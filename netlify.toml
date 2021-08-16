@@ -1,2 +1,5 @@
+[functions]
+  directory = "netlify_functions"
+
 [build]
-  function = "netlify_functions"
+  function = "cors"
